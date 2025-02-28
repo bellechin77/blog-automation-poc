@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
-import { SearchPage } from './page-objects/search.page';
-import { ArticlePage } from './page-objects/article.page';
-import { CommentPage } from './page-objects/comment.page';
+import { SearchPage } from '../pageObjects/search.page';
+import { ArticlePage } from '../pageObjects/article.page';
+import { CommentPage } from '../pageObjects/comment.page';
 
 test.describe('Medium Article Interactions', () => {
   let searchPage: SearchPage;
