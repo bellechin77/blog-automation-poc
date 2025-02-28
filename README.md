@@ -36,7 +36,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/blog-automation-poc.git
+git clone https://github.com/bellechin77/blog-automation-poc.git
 cd blog-automation-poc
 ```
 
